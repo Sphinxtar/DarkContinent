@@ -1,0 +1,226 @@
+ _____________ ________________ ______________ ______________ ____________
+()____________))_______________))_____________))_____________))___________)
+
+                             Linus Sphinx's
+                             Dark Continent
+                             Survival Manual
+
+          An Environmentally Safe Game For Intrepid Adventurers
+
+INTRODUCTION
+You are alone with no way back to civilization in the deepest darkest jungle
+filled with predators, perils and pitfalls. It's the law of the jungle that
+only the strong survive and kill or be killed as you fight the jungle and all
+it's inhabitants for the right to live and in that savage instinct strive to
+be king of this brutal land in which fate has cast you adrift.
+
+HINTS
+Your players strength is built up by eating, mangoes, bananas and dead
+animals. Strength loss comes from moving, getting hit by animals, other
+players, traps. How much strength is lost by movement is controlled by
+thirst and hunger, the less you eat the faster you lose strength, the type
+of terrain you're on is the other big factor.  How easy the game is for your
+player is controlled by your level of jungle savvy, when your strength
+divided by your savvy level is greater than 2500, ie your gain a point of
+savvy at 2500, 5000, 7500, 10,000 12,500 etc. The rock throwing, hitting of
+opponents, beast etc. gets easier and does more damage the higher your savvy.
+You will also gain points as you gain items necessary to win the game. When
+you first start use your swiss army knife and your compass, next move one
+space SOUTH, you will find more important items on the ground there. INSPECT
+everything, each has clues for it's USE. USING items is how to overcome the
+pitfalls, maintain your players health etc.  All items have some usage
+somewhere, sometime.  You may wish to jot down where you bury things with the
+shovel, where you've laid empty spam can traps etc. to supplement the MAP
+commands information.  If your leg is broken U)se a stick of bamboo to splint
+it. If you should luck out and find the amulet, inspect it and then use it to
+free an extra space in your bag.
+
+PLAY
+The game takes place on a grid numbered 0-39 east/west and 0-59 north/south.
+You are given a map and a few items to inspect and use and you will find a
+few more scattered in front of or behind you on the ground.  Your map is weak
+at first since the continent is completely uncharted but as you move the
+water holes, mango trees, snake pits, tiger traps, quicksand, bamboo groves,
+are all charted but NOT where you bury things, set spam traps etc.
+Tip: Don't bother marking the plane wreck location it changes every night and
+it's cargo of medicine and canned meat are refilled.  Your prompt line will
+keep you informed of your main statistics and you recieve a running commentary
+on your condition as your progress becomes impeded or you grow weak. When your
+strength hits a level of only ten moves left with your current hunger and
+thirst level you will start to black out, bloat etc.  If you run your character
+into the ground he will pass out and maybe die, not only ending your turn but
+leave easy pickings for the other bwanas.  A script is kept for your character
+to move on while you are out and will stir you from sleep and cause you to
+attack or run from another player, your hunter will only obey this as long as
+you have strength, can't penetrate high cliffs and will stop at the edge of the
+world. If your character suffers from a broken leg, it will only be able to
+move one space at a turn, in any encounter with a live player it's your script
+reading players turn first so use it to your advantage. Your strength etc. will
+be adjusted the same as if you were playing live so leave your bwana in good
+health and they'll be able to take care of themselves, it' a good idea if you
+know in advance where your character will go, which brings us back to checking
+the map again.  The other players can run your bwana down til he's too tired to
+move or defend themselves, so notice the powers of the look command and use
+the terrain to find an advantageous hiding/sleeping spot. Your character
+will keep a full log of all intruders and resulting interplay which you will
+be shown at your next entry to the continent.
+
+Your main prompt line consists of:
+
+ strength     thirst     prompts for input are always marked so.
+      |        /                       |
+ :-( 2000 50 100 50:12 What now bwana? )-:
+          |        |
+        hunger     map location IF you have a compass and can see it.
+
+Yes or no questions default to uppercase choice like this?:-(Y/n)-:
+In the above example hitting return would choose yes.
+
+When it's paused for you to absorb information it will wait for a
+Carriage return like this. but any key will continue.
+                         |
+:-(Cr)-: <---------------'
+
+Everything but your pseudonym is hot keyed for maximum play with minimum
+effort.  I've duped frequently used keys to the number pad to make it
+even easier.
+
+COMMANDS
+Commands at the main prompt are:
+----------------------------------------------------------------------------
+key/s|                              Action
+-----+----------------------------------------------------------------------
+NEWS | Move in that particular direction, movement takes strength and adds
+2468 | to your hunger and thirst depending on the terrain you travel on.
+-----+----------------------------------------------------------------------
+  M  | Map of where you've been, marked for you as you travel, you're the *
+-----+----------------------------------------------------------------------
+ L * | Look ahead, you will be asked for what direction to look: 2468-NEWS
+-----+----------------------------------------------------------------------
+ I 7 | Inspect an item, see what it is and usually recieve clues to its uses
+-----+----------------------------------------------------------------------
+ U 0 | Use an item in your bag/hand, some only once, some all the time.
+-----+----------------------------------------------------------------------
+ G + | Grab an item you find on the ground and place it in your hand or bag
+     | TIP: if you were lucky enough to use your swiss army knife first.
+-----+----------------------------------------------------------------------
+ D - | Drop an item from your bag/hand onto the ground.
+-----+----------------------------------------------------------------------
+ H   | This selects the item to whack others with from your bag/hands
+-----+----------------------------------------------------------------------
+ V . | The jungle express, must use to move when tree bound or take the fall
+-----+----------------------------------------------------------------------
+  P  | View, edit or change the command to execute first in your script
+-----+----------------------------------------------------------------------
+ ? / | Short summary of commands or detailed script information after (P).
+-----+----------------------------------------------------------------------
+  A  | Credits, where to bbs or write on purchasing the latest version.
+-----+----------------------------------------------------------------------
+  T  | Full information on your characters current status
+-----+----------------------------------------------------------------------
+  Y  | Works just like in the movies, does not signal sysop.
+-----+----------------------------------------------------------------------
+  R  | Small message system always starts where you last (L)istened just hit
+     | return to start reading new messages from other bwanas.
+-----+----------------------------------------------------------------------
+ K 1 | Attack another player to steal amulet or a beast that annoys you.
+-----+----------------------------------------------------------------------
+  Q  | Put your bwana to sleep until another player rousts them.
+----------------------------------------------------------------------------
+
+SUICIDE
+You may take your player out of the game by simply crawling to any edge of the
+map and throwing yourself off the cliff.
+
+DEATH
+Is not guaranteed except by the cliff at the maps edge, you may go suffering
+for a while, when your character dies or is killed while on script you will
+have to wait while the buzzards and insects feast.  If only passed out then
+strength is regained by sleeping at 300 an hour with a max of 2400.
+
+MAP
+The map is very sketchy, the details are filled in as you find them,
+remember the toll taken on your character depends upon their health and
+the terrain they travel on.
+
+GOALS
+Somewhere in the jungle, it's spirit won't allow it to be buried, is the lost
+amulet of ganaysha the elephant god.  Once a player finds and puts it on it
+can only be removed by death and will be shown to others when they run into
+the wearer.  You must wear it, befriend the spirit of ganaysha who appears
+in the form of an old elephant.  You must find and feed a sickly young chimp.
+Once you have all three of these goals, amulet, power of elephant call, chimp
+sidekick, and only then you must travel to the lost temple (marked with an m
+on the map) and there take your rightful place upon the throne to be thrown in
+the other bwanas face every time they log in and if strong enough at the
+moment of coronation upon reaching the temple qualify for top bwanas of all
+time. There is a lot more to this game than I can divulge here, you'll just
+have to discover it on your own.
+
+                    So go forth and conquer you savage!
+ _____________ ________________ ______________ ______________ ____________
+()____________))_______________))_____________))_____________))___________)
+
+0 + + + + 5 + + + + 10. . . . 5 . . . . 20. . . . 5 . . . . 30. . . . 5 . . . .
++ + + + + + + + + . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
++ + + + + + + + . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
++ + + + + + + . . . . . . . . . . . . . + + + + + + + + + + + + + + + + + + + +
++ + + . . . . . . . . . . . . . . . . . . . . . . + + + + + + + + + + + + + + +
+5 . . . . . . . . . . . . . . . . . . . . . . . . . . . + + + + + + + + + + + 5
+. . . . . . . . . . . . . . . . @ @ . . . . . . . . . . . . . . + + . . . . . .
+. . . . . . . . . . . . . . . . ^ @ @ . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . ^ ^ ^ @ @ . . . . . . . . . . . . . . . . @ @ @ @
+. . . . . . . . . ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ @ @ . . . . . . . . . . . . . . @ @ @ @ @
+10^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ @ @ . . . . . . . . . . . . @ @ . . .10
+^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ @ @ . . . . @ @ @ @ @ @ @ @ @ . . . . .
+^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ @ @ . . . @ @ @ @ @ @ @ @ @ . . . . . .
+^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ M ^ ^ ^ ^ @ @ . @ @ @ . . . . . . . . . . . . . .
+^ . . . . . . . . . . . ^ ^ ^ ^ ^ ^ ^ ^ @ @ @ @ @ . . . . . . . . . . . . . . .
+5 . . . . . . . . . . . ^ ^ ^ ^ ^ ^ ^ ^ @ @ @ @ . . . . . . . . . . . . . . . 5
+. . . . . . . . . . . . . ^ ^ ^ ^ ^ ^ @ @ @ @ @ . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . ^ ^ X ^ ^ @ @ . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . ^ ^ ^ ^ @ @ . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . ^ ^ ^ @ @ . . . . . . . . . . . . . . . . . . . . . .
+20. . . . . . . . . . . . ^ ^ @ @ . . . . . . . . . . . . . . . . . . . . . .20
+. . . . . . . . . . . @ @ @ @ @ @ . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . @ @ @ @ @ . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . @ @ . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . @ @ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5 @ @ @ @ @ @ @ @ @ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+@ @ @ @ @ @ @ @ @ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+30. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .30
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+40. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .40
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . (N) . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . .|. . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . .(W)-+-(E). . . . . . . . . . . . . . .
+50. . . . . . . . . . . . . . . . . . . . . .|. . . . . . . . . . . . . . . .50
+. . . . . . . . . . . . . . . . . . . . . . (S) . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+0 . . . . 5 . . . . 10. . . . 5 . . . . 20. . . . 5 . . . . 30. . . . 5 . . . .
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+ @ = River  ^ = Mountains   + = Desert   M = Mt. Ugga Bugga  X = Lost Temple
+
