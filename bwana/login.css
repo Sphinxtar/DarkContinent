@@ -1,0 +1,17 @@
+@charset "UTF-8";
+* { font-family: arial, Bitstream Vera Sans, sans-serif; font-size: 11pt; font-weight: 700; }
+label.mail { font-size: 9pt; }
+input { font-weight: 500; font-size: 9pt; }
+body       { color: white; background: black;  }
+div.top    { position: absolute; text-align: center; height: 240px; width: 97%; margin-top: 24px; top: 0px; left: 0px; }
+div.signon { position: absolute; text-align: center; font-size: 14pt; top: 280px; left: 0px; width: 97%; font-weight: bold; height: 40px; }
+div.firm   { position: absolute; text-align: center; height: 300px;  top: 334px; left: 0px; width: 97%; }
+p { margin: 32px; }
+
+label { position: absolute; text-align: right; width: 240px; }
+input, textarea { margin-left: 255px; }
+label.check, label.radio { position: relative; text-align: left; }
+
+a:link { color: white; }
+a:visited { color: white; }
+a:active { color: white; }

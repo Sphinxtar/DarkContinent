@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="SHORTCUT ICON" href="/dc/favicon.ico" />
+<link rel="stylesheet" href="/dc/login.css" type="text/css" media="screen" />
+<script type="text/javascript" language="javascript" src="/dc/login.js"></script>
+<title>AhhhEeeeAhhhhEeeeeeAhhhhhh!</title>
+<meta charset="utf-8"/>
+</head>
+<body onload="fillform()">
+<div class="top">
+<img src="resources/afmask1.jpg" border="0" />
+</div>
+<div id="signon" class="signon">Bwana Sign In Now...</div>
+<div class="firm">
+<form action="bwana" name="entry" onSubmit="return checkplease(this)" method="post" accept-charset="utf-8">
+<p>
+<label for="name">Funny name to use:</label>
+<input id="name" name="name" type="text" name="name" size="32" maxlength="32" value=""/>
+</p>
+<p>
+<label for="pwrd">Easy to remember password<br/>(5-32 chars)
+</label>
+<input id="pwrd" name="pwrd" type="password" name="pwrd" size="32" maxlength="32"/>
+</p>
+<p>
+<label for="confirm">Confirm that password:
+</label>
+<input id="confirm" name="confirm" type="password" name="confirm" size="32" maxlength="32"/>
+</p>
+<p>
+<label class="mail" for="mail">An email address only if you wish to recieve updates on how your player is progressing:
+</label>
+<input id="mail" type="text" name="mail" size="32" maxlength="80"/>
+</p>
+<p>
+<input type=hidden name="cmd" maxlength=3/>
+<input type="image" onmouseover="src='resources/enter2.jpg';" onmouseout="src='resources/enter1.jpg';" src="resources/enter1.jpg"/>
+<input type=hidden name="amt" maxlength=1/>
+</p>
+</form>
+</div>
+</body>
+</html>
