@@ -1,0 +1,177 @@
+<beasts>
+<beast>
+<name>crocodile</name>
+<appear>A log floats lazily by when suddenly it opens up to reveal the teeth of a giant crocodile heading right for you!</appear>
+<appear>A loud splash behind you makes you turn back in time to see a large crocodile swimming in your direction!</appear>
+<appear>Something moves out of the corner of your eye and you turn to see a log roll it's big yellow eyes and show the smile of the giant crocodile swimming right toward you!</appear>
+<appear>You hear a splashing on the opposite bank and suddenly the big yellow eyes of a giant crocodile surface and swim directly toward you!!</appear>
+<appear>A log floating by springs to life with a snap of jaws and splash of tail as a giant crocodile swims directly toward you!</appear>
+<split>Wounded and tired the big crocodile spins about narrowly missing you with it's tail and swims off in search of easier game.</split>
+<split>Weak and wounded the giant crocodile dives and disappears from view leaving you gasping for breath in the raging current.</split>
+<split>Growing tired or sensing something you don't the giant crocodile turns, dives and disappears from view but not from mind.</split>
+<split>Suddenly the big crocodile takes a last swipe at you with his massive tail and swims away at an alarming rate of speed.</split>
+<split>The giant crocodile turns with a violent splash and swims away down river leaving you choking on his wake in the swift current.</split>
+<attack>You wrestle with him for a moment and hear bone crack as the giant crocodile breaks free and slaps you in the back with his enourmous tail.</attack>
+<attack>His strength overpowers you and the giant jaws of the big crocodile latch on making the water foam dark red as he thrashes back and forth!</attack>
+<attack>You spit blood as the giant crocodiles tail slams into your side as you thrash back and forth in the raging river!</attack>
+<attack>The giant crocodile dives, latches on to your leg while thrashing back and forth pulling you under and ever nearer to drowning.</attack>
+<attack>The giant crocodile clamps onto your midsection and whips you back and forth horribly chewing you to a bloody pulp!</attack>
+<threaten>You grab the giant crocodile by the nose and hang on for dear life as he thrashes violently back and forth in the water.</threaten>
+<threaten>You grab the giant jaws of the crocodile and hold them shut while riding him like a bucking bronco in the raging river.</threaten>
+<threaten>As the crocodile moves in and snaps you catch him and hold his jaws apart as he struggles to bite your head off thrashing about in the swift water.</threaten>
+<threaten>You get a good hold of the giant crocodile from behind, bending his long nose back you stick your thumb in his eye and hang on tight as he bucks like a bronco in the treacherous river.</threaten>
+<threaten>As the giant crocodile lunges you catch his nose and push him down and manage to grab hold, but you wind up with his tail slapping you in the face and doing a wild dance while he snaps at your legs as you dance with him upside down in the rivers undertow.</threaten>
+<noescape>As you lunge for shore the crocodiles massive tail slams into your back nearly breaking you in two.</noescape>
+<noescape>You strike out for shore trying to outswim the crocodile but he dives underneath and blocks your desperate bid to escape.</noescape>
+<noescape>As the crocodile moves in you push him away and swim for it but he easily overtakes you knocking you down with his tail and trying to hold you under.</noescape>
+<noescape>You knock the big crocodile back and race for shore but he has other ideas, pushes you under and rolls you over several times before you can break free and surface gasping for air!</noescape>
+<noescape>You push the crocodile back and try to escape but he just spins about and knocks you down with a crushing blow from his tail.</noescape>
+<escape>You swim like hell and put some distance between you and the giant crocodile.  From the frying pan into the fire maybe, as you feel the undertow pulling you down.</escape>
+<escape>You push off the crocodile as he lunges in and swim for all your worth and manage to get away as the current turns in your favor.</escape>
+<escape>You knock the big crocodile into the swifter current and gasp in relief as he is carried downstream in the raging river that threatens to sweep you along after him.</escape>
+<escape>With a burst of adrenalin you knock the crocodile back and swim furiously for the shore managing to out distance the crocodile but find you are still left to battle the raging current.</escape>
+<escape>You kick like hell battling the current and manage to get off the crocodiles menu but grow tired quickly in the icy cold of the raging river.</escape>
+<killhunter>The giant crocodile slams you with it's tail stunning you and then snaps the enourmous jaws on your midsection, almost biting you in two as it thrashes your corpse back and forth before dragging you down to the bottom where he stashes you under a rock to rot for a few days before he'll return to feed.</killhunter>
+<killhunter>The giant crocodile bites off your arm making it difficult to tread water, as you grow to weak too fight him off any longer he drags you down to your watery grave and rolls you over and over until you drown then stuffs you under a rotting log to rot and age for a day or two before returning to eat your tenderized and waterlogged corpse.</killhunter>
+<killhunter>The giant crocodile stuns you with a blow from it's tail upside the head and forces you under the water and rolls you over and over until you don't know which way is up and grow too weak to struggle further.  Suddenly another crocodile challenges for your corpse and they tear you to shreds in a grisly tug of war as you slowly die.</killhunter>
+<killhunter>The cold river saps your strength and the giant crocodile overpowers you and pulls you under rolling you over and over until you drown and then takes your corpse home on the bottom where he stuffs you under a rock to rot and season a day or two before dining.</killhunter>
+<killhunter>Knocking you senseless with it's tail and biting your head off the giant crocodile drags you to shore where the other crocodiles fight for leftovers of your headless corpse and the vultures gather above as crabs scramble for shreds of meat below.</killhunter>
+<killbeast>Your savage blows take their toll as the crocodile weakens and dies you finally let go and watch him sail off in the raging current and gasp for air as the cold and your efforts make you grow still weaker.</killbeast>
+<killbeast>Getting a good grip on his snout from behind you pull back until you feel the giant crocodiles back break as he goes limp and you let him go to fight your way to shore in the icy raging river, growing ever weaker.</killbeast>
+<killbeast>Hacking savagely at the giant crocodile as you ride him like a cowboy in the raging river, you finally bash him for the last time as he goes limp and release him to be swept away in the current and swim frantically to keep from being swept after him.</killbeast>
+<killbeast>Bashing the big crocodile's brains in while wrestling takes it's toll but you manage to finally finish him off as he thrashes one last time and goes limp leaving you to fight to shore in the icy current that's rapidly draining what little strength you have left.</killbeast>
+<killbeast>Raining blow after blow upon the big crocodile as you wrestle him to the death in the swift icy current which numbs you to your injuries, you finally feel the crocodile's struggles cease leaving you drained and victorious but growing weaker by the second in the raging river.</killbeast>
+</beast>
+
+<beast>
+<name>tiger</name>
+<appear>With a loud roar a large tiger charges into the clearing, turns toward you and fixes you with an evil stare!  Your heart beats louder still as the tigers tail begins to twitch!</appear>
+<appear>An enourmous tiger rises up from where it had been sunning itself and stretches his massive orange black self with a roar then jumps directly in front of you!</appear>
+<appear>Fitting in so well with it's surroundings you barely notice the big tiger that's hiding here.  Your heart stops as it suddenly jumps up growling and starts moving toward you!</appear>
+<appear>With an eerie silence a massive orange tiger pads into view, crouching low the big man eater starts to stalk you ever so slowly.  Your throat tightens as both of you freeze in your tracks.</appear>
+<appear>A loud roar directly behind you makes you jump right out of your skin and noisily defecate in your loin cloth as you turn to face a giant man eating tiger scarcely an arms length away!</appear>
+<split>Raising its head the big tiger sniffs for an instant and then turns and vanishes into the dense jungle.</split>
+<split>Suddenly the tiger turns and with a roar leisurely trots off into the jungle.</split>
+<split>The tiger stops as if stunned and then your heart stops as it suddenly jumps right past you and disappears into the thick green jungle.</split>
+<split>The giant tiger stops in mid stride and silently runs off into the jungle as suddenly as it appeared.</split>
+<split>With a loud roar the ferocious man eating tiger changes its mind and runs off in search of easier food.</split>
+<attack>You squeal as the enourmous tiger bites you savagely and shakes you side to side like a rag doll!</attack>
+<attack>The giant tiger smiles as it swats your defense aside and sinks it's claws into your chest ripping downward!</attack>
+<attack>You raise your hands in a pathetic defense as the giant tiger bites you on the arm chewing it to a useless bloody pulp!</attack>
+<attack>You scream in terror as the tigers powerful jaws of razor sharp teeth sink into you!</attack>
+<attack>You cry out as the man eating tigers razor sharp claws cleave your flesh into ribbons splattering blood everywhere!</attack>
+<threaten>The big tiger roars and steps toward you growling!</threaten>
+<threaten>The huge tigers tail begins to twitch as he stares relentlessly.</threaten>
+<threaten>The tiger freezes in place and stares directly at you!</threaten>
+<threaten>The tiger crouches down ready to pounce without warning!</threaten>
+<threaten>The tigers roar deafens you as it dances to and fro with its tail waving wildly!</threaten>
+<noescape>The enourmous tiger blocks that exit and dashes your hope of escape!</noescape>
+<noescape>You freeze in your tracks and a sudden uncontrolled bowel movement betrays your mortal fear as the tiger roars loudly!</noescape>
+<noescape>Snarling and dancing side to side the tiger blocks your exit with a roar and show of teeth!</noescape>
+<noescape>You feel the hot breath of the tiger on your neck as you dash for it only to be knocked down with it's big foot in your back!</noescape>
+<noescape>You sprint for it suddenly but the big man eating tiger knocks you headlong sprawling in the dirt!</noescape>
+<escape>Faking to one side you sprint for the other and run headlong without looking back and breath a sigh of relief to learn the tiger hasn't followed you.</escape>
+<escape>You throw a handful of dirt in the giant tigers face then run for all your worth and duck into hiding as soon as you realize you aren't being followed.</escape>
+<escape>You scream and wave your arms momentarily surprising the man eater and run like the devil then look for a safe place to hide as soon as you notice the big cat isn't behind you.</escape>
+<escape>You feel the hot breath of the tiger on your neck as you dash for it and give thanks for the tiger not being hungry enough to give chase.</escape>
+<escape>You sprint for it suddenly but the big man eater knocks you headlong into the dirt but you regain your footing and keep on running until you lose sight of the vicious tiger.</escape>
+<killhunter>The wary tiger suddenly charges and leaps on you sinking its teeth into your neck!  Shaking you back and forth like a rag doll it finally drops your lifeless carcass on the jungle floor.  Looking around for competing predators, it decides to dine here and settles down to snack upon what's left of you.</killhunter>
+<killhunter>With a one two punch the tiger slaps your puny defenses aside and tears your entire midsection out with it's gigantic razor sharp claws. Sinking it's horrible teeth into your shoulder you are still concious but unable to feel pain as it shakes the last bit of life out of you.  Flinging you easily onto it's back it springs ever so gracefully back into the jungle to share your dead carcass with it's young family.  Your belongings and a fading red spot on the green jungle carpet are all that's left to tell anyone of your tragic end.</killhunter>
+<killhunter>Chunks of your meat fly in a spray of red as the giant cat's claws rip and shred you to hamburger.  The massive jaws clamp down on your mid section and with a mighty shake the tiger literally rips you in half and you finally die watching your detached legs still trying to run in fear.</killhunter>
+<killhunter>The tigers massive jaws of razor sharp teeth clamp onto your neck and bite your head clean off!  The tiger settles down to munch upon your headless torso, ignoring a large vulture who has settled down next to your head to feast upon your staring but unseeing eyes.</killhunter>
+<killhunter>Your blood sprays in a geyser of red as the ferocious tiger claws wildly into your chest.  Biting into your shoulder he gives a terrific shake, snapping your spine and drops your carcass to the jungle floor. You see the hungry beast towering above your helpless form as your life rapidly ebbs and your vision fades to black.</killhunter>
+<killbeast>Your weapon finds it's mark and with a final whack the tiger drops in a pool of blood. The massive orange and black ball of bloody fur still twitches as you give it a few more good whacks just to be sure.</killbeast>
+<killbeast>With a savage cry you tear into the once ferocious tiger and raise an orange cloud of fur as you wail on the big cat until it's lifeless carcass is beaten to a pulp staining the jungle floor bright red.</killbeast>
+<killbeast>The big tiger gives one last effort and lunges for you but falls short and drops to ground twitching with a glassy look in it's once bright glaring eyes. You prod it with your foot and it gives a few more nervous twitches and then goes stiff as an eerie silence falls over the jungle.</killbeast>
+<killbeast>You hit the giant tiger with everything you've got as he jumps for you knocking him backwards.  You seize the moment and drive forward wailing with all your might spraying blood and hunks of meat everywhere until every last sign of life is gone from the once ferocious beast.</killbeast>
+<killbeast>You wind up as the big tiger jumps and let go just as he crosses the plate.  With a tremendous crack your home run swing puts his lights right out of the park and the big cat drops at your feet in a pile of lifeless orange and black fur.  Throwing back your head you announce your victory to the rest of the jungle in a triumphant yell.</killbeast>
+</beast>
+
+<beast>
+<name>gorilla</name>
+<appear>Suddenly from the trees above an enourmous black gorilla just drops right in front of you pounding on his chest!</appear>
+<appear>You disturb a giant black gorilla sleeping here! It springs to it's feet and charges at you, then stops and screams it's challenge for this spot!</appear>
+<appear>A giant black gorilla swings out of the trees and knocks you across the clearing, then drops in front of you and beats upon it's chest!</appear>
+<appear>A huge black gorilla tenfold your size suddenly scoots into view scaring you witless!  Staring at you with death black eyes he makes some funny noises and then starts moving toward you.</appear>
+<appear>Your heart skips a beat and your blood runs cold as a giant black gorilla jumps from where it had been feeding and stands right in your face snarling!</appear>
+<split>Stopping suddenly the big gorilla senses something in the wind and scoots off in the opposite direction in a hurry.</split>
+<split>Suddenly the gorilla changes it's mind and takes off through the bushes with alarming speed.</split>
+<split>Slamming it's shoulder into you hard the big gorilla knocks you breathless and just keeps on going into the jungle.</split>
+<split>Grabbing small saplings too weak for you to climb the giant ape just swings off through the trees leaving you to wonder in awe.</split>
+<split>Suddenly you hear a big cat yowl close by and the gorilla turns and runs silently off into the jungle.</split>
+<attack>The giant black gorilla picks you up by the crotch and body slams you into the ground!</attack>
+<attack>The giant monkey pulls your arm out of the socket and then lets it snap back before he slams you back and forth on the ground like a rag doll!</attack>
+<attack>Grabbing you by the neck the giant gorilla tries to unscrew your head!</attack>
+<attack>Taking you by the leg and arm the enourmous black gorilla tries to twist and break you in half!</attack>
+<attack>Tackling you in a bear hug the huge gorilla squeezes you til you hear your bones cracking and then slams you into a tree!</attack>
+<threaten>Screaming and dancing back and forth while waving it's arms the big gorilla swings and just misses your head with a big hairy fist!</threaten>
+<threaten>Pounding upon it's chest and uttering threatening sounds the gorilla comes terribly close!</threaten>
+<threaten>The giant ape gets so close you can smell it's awful breath as it stares you eye to eye!</threaten>
+<threaten>Hooting loudly the giant ape does a backflip and then runs up to you with a loud screech waving it's arms!</threaten>
+<threaten>With a loud roar the giant black gorilla throws back it's head and pounds upon it's chest!</threaten>
+<noescape>The giant gorilla grunts and sticks out his leg, tripping and sending you sprawling on the jungle floor, regaining your balance you turn and face the gorilla!</noescape>
+<noescape>A big hairy hand grabs you by the shoulder and yanks you backward as you desperately try to run!</noescape>
+<noescape>You scream and try to flee from the brutish beasts grasp but a big hairy fist in the back knocks you down, you stagger to your feet and again face the big gorilla.</noescape>
+<noescape>You smell the hot banana breath on your back as you turn and run for safety but the big gorilla hammers a big fist in your back and knocks you down!</noescape>
+<noescape>You try to run but soil yourself instead as the giant gorilla roars loudly and beats upon his enourmous chest!</noescape>
+<escape>The giant gorilla grunts and sticks out his leg, but you deftly hop over and smash the bugger squarely in the nose and sprint for safety. Hearing the beast howling far behind you stop to rest and take a look around.</escape>
+<escape>Staring into the giant black gorilla's pitch black eyes you ever so slowlyback your way up into the jungle until the beast is almost out of sight when you see him distracted by something else.</escape>
+<escape>You smell the hot banana breath on your back as you turn and run for safety but when you stop and turn to face the monstrous monkey you discover he stopped chasing you a long way back there.</escape>
+<escape>With a loud roar the giant black gorilla throws back it's head and pounds upon it's chest!  You take the opportunity and run like hell and lose the beast.</escape>
+<escape>You break free as the big ape grabs for you and set a new jungle record for the fifty yard dash from a giant black gorilla!  Stopping to catch your breath far from the beast you thank your lucky stars for a narrow escape from a terrible death.</escape>
+<killhunter>The giant black gorilla grabs you by the neck with one enourmous hand and wraps the other one around your face and with a mighty squeeze your head goes POP!  Your skull goes flying off into the jungle and the gorilla celebrates his triumph by beating the nearby trees with what's left of your headlesSs corpse.</killhunter>
+<killhunter>The fantastic strength of the giant gorilla becomes pretty obvious as he unscrews your head and pulls it off!  Tossing it over a hairy shoulder the giant gorilla tears whats left of your body limb from limb flinging your arms and legs off into the jungle then jumping up and down on your headless torso he throws back his enourmous head and howls in victory while thumping his mighty chest.</killhunter>
+<killhunter>With a flying tackle and a powerful hug the giant ape crushes the life out of you and drops your crumpled corpse to the jungle floor.  Throwing back his giant head and howling in victory while beating his immense chest he then picks up your lifeless form like a dust rag and flings it off into the jungle before returning to eating his dinner of bamboo shoots.</killhunter>
+<killhunter>With a power and savagery unimagined the giant ape smashes you down with a sledge hammer like blow.  One after another the merciless monkey pounds you into the landscape smashing your skull and literally breaking every bone in your body and then kicks your limp dish rag carcass while prancing around howling to announce his victory to the other beasts of the jungle.</killhunter>
+<killhunter>With a one two punch to the bread basket the giant gorilla drives two of your ribs through your lung and a third right through your heart. Spewing blood out your mouth your lifeless corpse drops to the jungle floor while the big ape watches in amazement and then sheepishly slips away to resume his nap.</killhunter>
+<killbeast>Howling a savage war cry you drive your weapon into the big gorillas neck again and again until the monster drops you to the ground as he falls backward.  A gaping hole in his neck sprays rythmic geysers of blood rapidly growing fainter until finally stopping all together.</killbeast>
+<killbeast>You haul off and kick the big gorilla right in the balls!  Howling in savage fury the giant monkey drops to his knees and you smash him with everything you've got right between the eyes.  Rocking side to side you see his pain filled eyes cross and then glaze over as he crumples to the jungle floor with a final grunt.</killbeast>
+<killbeast>Stabbing deeply at the gorillas face you drive your weapon through his eye and straight into the brain.  Blood showers from his nose as he howls and writhes kicking and flailing in nervous death spasms for several minutes while you watch.  The birds start to sing again almost to the moment as the gorillas death rattle fades.</killbeast>
+<killbeast>You raise your weapon high above your head and then smash it with all your might right on the big black gorillas ear.  Squealing in pain the massive monkey claws at his ear as you stab him in the side with both hands.  As he drops his hairy arm you slam your weapon repeatedly into the side of his head until his eyes roll back in death and his bloody carcass sprawls across the jungle floor at your feet.</killbeast>
+<killbeast>You raise your weapon high for one final shot as the big black gorilla steps in for the kill and give him your all smashing his nose flat and sending blood spurting out his ears.  His dead weight still in mid charge knocks you flat pinning you underneath his hairy mass, you finally manage to crawl out from underneath and catch your breath.</killbeast>
+</beast>
+
+<beast>
+<name>giant python</name>
+<appear>You trip over what appears to be a tree root but when you go to pick yourself up your blood runs cold as a giant python snake hisses at you just an arms length away!  It's weaving back and forth distracts you so you don't notice the rest of him is coiling around your legs until it's too late!  The giant python snake knocks you down as it strikes and wraps it's body around you trying to get a better grip!</appear>
+<appear>You hear a thump just behind you causing you to turn suddenly, you look down to see a giant python snake coiling up and hissing ready to strike!  The giant python snake knocks you down as it strikes and quickly coils around you as you wrestle with him.</appear>
+<appear>You pause for a second to catch your breath and feel something cool next to your leg.  Looking down you find a giant python snake coiling around your feet!</appear>
+<appear>You hear a wild crashing in the trees directly above you a split second before something heavy knocks you to the ground!  You feel it's cold skin slither across your legs as you come face to face with a giant python snake and it's got you in it's icy grip!</appear>
+<appear>A huge python snake drops out of the tree above and hangs in front of your face with a loud hiss as it coils ready to strike!  The rest of the snake knocks you down as it falls then coils around you and begins to squeeze!</appear>
+<split>Losing interest suddenly or sensing something you don't the giant python snake unwinds and silently slips away into the dark undergrowth.</split>
+<split>Losing interest in you the giant python snake hisses loudly and slithers off sideways for a few yards before disappearing into the dense jungle.</split>
+<split>Having already eaten today the giant python snake uncoils and streaks off into the jungle in search of a quiet place to digest it's last meal.</split>
+<split>A roar from nervous elephants somewhere nearby draws the giant python snakes interest as it unwinds and slithers off at an alarming rate of speed.</split>
+<split>The voice of a big cat yowls nearby and the giant python snake unwinds immediately and slips off into the dense undergrowth.</split>
+<attack>The giant python snake writhes and wraps around you!  It's big coils twist around you and tighten and he squeezes you in a crushing grip!</attack>
+<attack>Like greased lightning the giant python snake whips it's muscular coils around you and gives you a crushing squeeze!  You hear your bones crack!</attack>
+<attack>The giant python snake strikes!  It's fangs burn into you as you grab it by the neck it's coils wrap around you maneuvering for the death grip as you wrestle with the fangs now just a few inches away from your face!</attack>
+<attack>The giant python snake thrashes about and coils around your neck!  It's massive weight pins you down as it's coils subdue you and it starts squeezing you to a pulp, your eyes and tongue bulge out as you turn blue!</attack>
+<attack>The giant python snake loosens, gets a better grip and crushes the life right out of you!  You hear your heart pounding in your ears as you fight for air but snake squeezes you even harder still as you thrash about!</attack>
+<threaten>You wrestle and roll about with giant python snake, he loosens his grip and hisses loudly as he tries to bite and misses!</threaten>
+<threaten>The giant python snake can't quite get a good enough grip as you wrestle and roll about trying to smash his head into the ground!</threaten>
+<threaten>The giant python loosens up for a moment but as soon as you move he wraps you up even tighter,  probably just checking to see if you're still alive!</threaten>
+<threaten>You manage to throw off a few coils as you roll and thrash about with the giant python snake trying to bite you!</threaten>
+<threaten>You try to bite the giant python snake as you thrash and roll about dodging his deadly grip but can't get a tooth in his tough hide!</threaten>
+<noescape>You savagely bite the giant python snake in a desperate bid to escape but the coils grow even tighter making it impossible to breathe!</noescape>
+<noescape>You hit the giant python snake a good one and almost break free but the coils wrap you up and put the vice like squeeze to you again!</noescape>
+<noescape>WHACK! You get one arm free and hack at the giant python snakes head, it lets go for a split second but you can't quite get loose before he crushes you again, this time so tight you hear your bones breaking!</noescape>
+<noescape>You smash the giant python snakes head into the ground and throw off a few coils but it just wraps you up again and squeezes you so hard your eyes bulge out of your head!</noescape>
+<noescape>You turn bright purple with your eyes bulging out of your head from being unable to breathe!  The giant python squeezes you tighter still and you hear the sickening crunch of your bones breaking!</noescape>
+<escape>You savagely bite the giant python snake in a desperate bid to escape and the coils loosen for a split second, just enough to slip free of the huge serpents death grip and crawl to safety!</escape>
+<escape>WHACK! You get one arm free and hack at the giant python snakes head, it lets go for a split second but you can't quite get loose so you slug him again and this time he lets go and slithers off into the jungle.</escape>
+<escape>The giant python snakes crushing grip lets up for a second to get a better grip and you roll right out of his deadly grasp and sprint for a few yards then look back to see his tail slithering off into the jungle!</escape>
+<escape>You struggle rolling back and forth with the giant python as it wraps and unwraps trying to get a better grip to crush the life out of you when an elephant trumpeting nearby startles the snake and you spring to safety as the giant python slithers away.</escape>
+<escape>Wrestling with the giant python snake you manage to slip free and leap to safety out of his reach.  Striking and missing at your fleeing form the big snake turns and slithers off into the jungle.</escape>
+<killhunter>The massive coils wrap tightly around you and all goes black as the snake flexes its muscles and crushes you into a size more easily eaten.  A few more squeezes and the giant python lets go of your mangled corpse.  Opening it's mouth wide starting at your head it chokes you down whole leaving no sign of you but your bag on the ground and then stretches out for a nap after lunch.</killhunter>
+<killhunter>With a final squeeze from the giant python your pathetic jungle existence ends as your guts spew out your mouth like toothpaste from a stepped on tube.  With a few more just to compact you down to a digestible size the big python swallows you whole head first and slithers off slowly to take a nap and let the enourmous bulge in his belly digest.</killhunter>
+<killhunter>In a desperate bid you bite the giant python savagely but he just squeezes you harder cutting off your air.  You hear the sound of your bones breaking as all fades to black and your pitiful struggle for life in the cruel jungle comes to a bad end leaving nothing behind to mark your trail but a belch from a smiling python snake.</killhunter>
+<killhunter>The massive coils of the python snake loosen for a split second and you struggle for a moment but the crushing grip returns ten times stronger and your death scream is choked off by your guts squishing out as it reduces you to an easily eaten bag of pulp and ends your miserable existence.</killhunter>
+<killhunter>WHACK! You get one arm free and hack at the giant python snakes head, it lets go for a split second but you can't quite get loose so you slug him again but the snake squeezes you tight and your heart pounds and blood spurts out your ears as all fades to black and your story ends in the belly of a giant python snake.</killhunter>
+<killbeast>The python fixes you in a crushing death grip but you manage to dig in with your teeth and bite deep into him a foot below his head, he stiffens and you writhe in pain but dig in deeper and bite his head clean off!  He continues to thrash about headless with blood spraying everywhere for several minutes until finally going limp.</killbeast>
+<killbeast>As you roll and thrash about with the giant python snake struggling to get enough leverage to crush you like a grape, you manage to get a hand free to grab a rock and smash it's head flat repeatedly as it continues to thrash about, it's body seemingly unaware of the head's demise.</killbeast>
+<killbeast>You struggle savagely to break free of the giant pythons deadly grasp but the big snake just squeezes you tighter!  Rolling over you manage to get both hands free and hammer its head on the rocky ground until death relaxes the coils letting you breathe again!</killbeast>
+<killbeast>Hacking savagely at the head of the giant python snake as it dances back and forth trying to strike while the coils wrap and rewrap around you struggling for the death grip, you swing just as he strikes and knock it's head clean off!  The big green stump sprays blood everywhere as it thrashes around and the coils give you a painful final squeeze with the big snakes final death spasm before going completely limp except for an occasional nervous twitch.</killbeast>
+<killbeast>Thrashing back and forth with the giant python snake as it coils and recoils in a frantic struggle for the needed leverage to crush you to death you roll out in the confusion and slip free!  Grabbing a big stick you savagely pound the deadly reptile to a bloody pulp!</killbeast>
+</beast>
+</beasts>

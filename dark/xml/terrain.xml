@@ -1,0 +1,409 @@
+
+<terrain>
+    <terra>
+        <id>0</id>
+        <code>a</code>
+		<thirst>5</thirst>
+		<hunger>15</hunger>
+        <toll>3</toll>
+        <surface>pitch black jungle</surface>
+        <desc>The jungle closes in on you as the trees above meet and become one solid mass blotting out the sun, it's becoming so dark you can't see your hand in front of your face, you grope along slowly feeling your way through the inky blackness.</desc>
+    </terra>
+    <terra>
+        <id>1</id>
+        <code>b</code>
+		<thirst>5</thirst>
+		<hunger>15</hunger>
+        <toll>0</toll>
+        <surface>an overgrown trail</surface>
+        <desc>The jungle thins out and you stumble onto a narrow trail through the bush overgrown with thick vines and exotic flowers, you stroll easily along this path.</desc>
+    </terra>
+    <terra>
+        <id>2</id>
+        <code>c</code>
+		<thirst>5</thirst>
+		<hunger>15</hunger>
+        <toll>6</toll>
+        <surface>mountains</surface>
+        <desc>The mountains are a steep climb and the cold saps your strength even further still, you'll soon die of exposure.</desc>
+    </terra>
+    <terra>
+        <id>3</id>
+        <code>d</code>
+		<thirst>5</thirst>
+		<hunger>15</hunger>
+        <toll>9</toll>
+        <surface>a raging river</surface>
+        <desc>The fast moving water is icy cold and swiftly rushes by.  It's treacherous undertow forming white waves on the service tug upon your legs urging you downward, swimming hard against the raging current you quickly grow tired.</desc>
+    </terra>
+    <terra>
+        <id>4</id>
+        <code>e</code>
+		<thirst>5</thirst>
+		<hunger>15</hunger>
+        <toll>5</toll>
+        <surface>a tiger trap</surface>
+        <desc>Aiiieee! The jungle floor beneath you crumbles away as you plunge feet first into a giant pit lined with rows of bamboo stakes cut to razor sharp points.</desc>
+    </terra>
+    <terra>
+        <id>5</id>
+        <code>f</code>
+		<thirst>5</thirst>
+		<hunger>15</hunger>
+        <toll>1</toll>
+        <surface>a bamboo grove</surface>
+        <desc>A thick grove of bamboo forms an almost cathedral like clearing here with the ground completely covered in fallen sticks and green shoots sticking you in the feet causing you to step carefully among the giant stalks.</desc>
+    </terra>
+    <terra>
+        <id>6</id>
+        <code>g</code>
+		<thirst>5</thirst>
+		<hunger>15</hunger>
+        <toll>3</toll>
+        <surface>headhunter country</surface>
+        <desc>A number of shrunken heads perched upon elaborately carved teak poles serve as a grisly keep out sign and let you know you've just crossed into head hunter country.</desc>
+    </terra>
+    <terra>
+        <id>7</id>
+        <code>h</code>
+		<thirst>5</thirst>
+		<hunger>15</hunger>
+        <toll>1</toll>
+        <surface>the headhunter village</surface>
+        <desc>Thick mud huts like strange giant beehives form a circle around an enourmous black kettle.  The drums are deafening as you hunch down and spy on the headhunters dancing around an altar at the other end of the village.</desc>
+    </terra>
+    <terra>
+        <id>8</id>
+        <code>i</code>
+		<thirst>5</thirst>
+		<hunger>15</hunger>
+        <toll>0</toll>
+        <surface>a friendly witch doctor</surface>
+        <desc>You break into a grassy clearing where a small thatched hut sits off to one side.  Breaking this peaceful scene is a enourmous pair of elephant tusks made into a giant arch with a mobile of bones hanging from the middle forming what can only be the shingle of a friendly witch doctor.</desc>
+    </terra>
+    <terra>
+        <id>9</id>
+        <code>j</code>
+		<thirst>5</thirst>
+		<hunger>15</hunger>
+        <toll>3</toll>
+        <surface>headhunter country</surface>
+        <desc>A dozen or so human skulls arranged into a small pyramid mark the outer boundary of headhunter country.  The jungle seems strangely quiet and you feel as if you are being watched but a nervous look around reveals nothing.</desc>
+    </terra>
+    <terra>
+        <id>10</id>
+        <code>k</code>
+		<thirst>5</thirst>
+		<hunger>15</hunger>
+        <toll>1</toll>
+        <surface>a headhunter village</surface>
+        <desc>A big ring of miniature grass huts on stilts surround two very tall branchless trees sticking up with ropes tied to the tops of them. The women dance up a storm as the drums rage and the headhunters seem to be all caught up in a tug of war to pull the tops of two trees to earth as you peer out from your hiding place in the thick jungle.</desc>
+    </terra>
+    <terra>
+        <id>11</id>
+        <code>l</code>
+		<thirst>5</thirst>
+		<hunger>15</hunger>
+        <toll>3</toll>
+        <surface>lion country</surface>
+        <desc>You break out of the jungle and are confronted by a plain of elephant grass waving in the breeze and the dry air is a relief after the steamy jungle.  A loud roar somewhere nearby sends chills up your spine!</desc>
+    </terra>
+    <terra>
+        <id>12</id>
+        <code>m</code>
+		<thirst>5</thirst>
+		<hunger>15</hunger>
+        <toll>0</toll>
+        <surface>the lost city</surface>
+        <desc>Huge boulders carved into statues of -=GANAYSHA=- the elephant god barely concealed by the jungle rise up before you.  You lean forward on a tusk for a closer look and notice an odd elephant shaped impression in the eye of the statue that looks as if somethings missing.</desc>
+    </terra>
+    <terra>
+        <id>13</id>
+        <code>n</code>
+		<thirst>5</thirst>
+		<hunger>15</hunger>
+        <toll>1</toll>
+        <surface>an elephants graveyard</surface>
+        <desc>A steep path opens up suddenly to reveal a hidden valley littered with enourmous skeletons.  Giant rib cages form arches big enough to walk through, you've stumbled onto the elephant's grave yard, where aging mastadons come to die.</desc>
+    </terra>
+    <terra>
+        <id>14</id>
+        <code>o</code>
+		<thirst>5</thirst>
+		<hunger>15</hunger>
+        <toll>2</toll>
+        <surface>a mango tree</surface>
+        <desc>A tree is nearby, hanging heavy with mouth watering fresh mangoes, the favorite treat of elephants who've picked all but the ones at the very tip top.</desc>
+    </terra>
+    <terra>
+        <id>15</id>
+        <code>p</code>
+		<thirst>5</thirst>
+		<hunger>15</hunger>
+        <toll>0</toll>
+        <surface>an empty hut</surface>
+        <desc>You walk right up to a hut without even realizing it, the vines have grown around it and hidden it so well.  There's nothing here but a few rotting animal skins on the walls.</desc>
+    </terra>
+    <terra>
+        <id>16</id>
+        <code>q</code>
+		<thirst>5</thirst>
+		<hunger>15</hunger>
+        <toll>0</toll>
+        <surface>
+        </surface>
+        <desc>
+        </desc>
+    </terra>
+    <terra>
+        <id>17</id>
+        <code>r</code>
+		<thirst>5</thirst>
+		<hunger>15</hunger>
+        <toll>4</toll>
+        <surface>lush green jungle</surface>
+        <desc>Plunging into bright green jungle of big broadleaf plants so thick you can barely force your way through with your bare hands.</desc>
+    </terra>
+    <terra>
+        <id>18</id>
+        <code>s</code>
+		<thirst>5</thirst>
+		<hunger>15</hunger>
+        <toll>9</toll>
+        <surface>snake pit</surface>
+        <desc>Aiiee! A SNAKE PIT!!! The jungle floor gives way dumping you into a deep crevice that serves as home to any number of reptiles. The thick thatch of the jungle above blocks out all light so you can't see the snakes but you can hear them whenever you get next to one,  you can barely make out a place to climb out on the other side if you live long enough to get there.</desc>
+    </terra>
+    <terra>
+        <id>19</id>
+        <code>t</code>
+        <surface>a tree</surface>
+		<thirst>5</thirst>
+		<hunger>15</hunger>
+        <toll>5</toll>
+        <desc>A broad tree sticks up out of the jungle with lots of big vines hanging all about.</desc>
+    </terra>
+    <terra>
+        <id>20</id>
+        <code>u</code>
+		<thirst>5</thirst>
+		<hunger>15</hunger>
+        <toll>8</toll>
+        <surface>desert</surface>
+        <desc>The scenery changes all of a sudden as you reach the edge of the desert where for as far as you can see the sand dunes like frozen waves on the ocean.  It's hot!  You sweat profusely.</desc>
+    </terra>
+    <terra>
+        <id>21</id>
+        <code>v</code>
+		<thirst>5</thirst>
+		<hunger>15</hunger>
+        <toll>2</toll>
+        <surface>
+        </surface>
+        <desc>
+        </desc>
+    </terra>
+    <terra>
+        <id>22</id>
+		<thirst>5</thirst>
+		<hunger>15</hunger>
+        <toll>0</toll>
+        <code>w</code>
+        <surface>watering hole</surface>
+        <desc>You've broken into a small clearing where a cool clear watering hole is fed by a noisy waterfall from a spring in the rocks above.</desc>
+    </terra>
+    <terra>
+        <id>23</id>
+        <code>x</code>
+		<thirst>5</thirst>
+		<hunger>15</hunger>
+        <toll>0</toll>
+        <surface>plane wreck</surface>
+        <desc>Wrapped in vines and disappearing into the landscape is an old cargo plane with the skeleton of the pilot still at the stick flying to who knows where.  Inside the stench of animal feces make you gag as the big rat like creatures who have been living in it for some time among its cargo of medical supplies and canned meat scurry for cover at your approach.</desc>
+    </terra>
+    <terra>
+        <id>24</id>
+        <code>y</code>
+		<thirst>5</thirst>
+		<hunger>15</hunger>
+        <toll>9</toll>
+        <surface>quicksand</surface>
+        <desc>ARGH! QUICKSAND The solid looking ground sucks you in with a loud slurp, you struggle with all your might but just slip further. There is a branch hanging nearby and you just might be able to throw your bag onto it and pull yourself out, a slim chance but all you've got!</desc>
+    </terra>
+    <terra>
+        <id>25</id>
+        <code>z</code>
+		<thirst>5</thirst>
+		<hunger>15</hunger>
+        <toll>0</toll>
+        <surface>high cliffs</surface>
+        <desc>A cliff rises literally straight up with no way around, it's solid rock face defies your efforts to climb it.</desc>
+    </terra>
+    <terra>
+        <id>26</id>
+        <code>0</code>
+		<thirst>5</thirst>
+		<hunger>15</hunger>
+        <toll>0</toll>
+        <surface>edge of the world</surface>
+        <desc>You step out onto a cliff on the edge of heaven itself, looking at the clouds below you get dizzy as you step dangerously close to the edge.</desc>
+    </terra>
+    <terra>
+        <id>27</id>
+        <code>P</code>
+        <toll>0</toll>
+        <surface>slipped the surly bonds of earth</surface>
+        <desc>The edge crumbles suddenly and you slip the surly bonds of earth soaring out over the jungle for what seems an eternity finally breaking through the clouds to become a red stain of minced vulture chow on the rocks next to a bubbling brook. A yak pausing to drink at the brook looks up for a moment at your sudden arrival, snorts and then goes about the business of survival in the jungle at which you have failed so miserably.</desc>
+    </terra>
+    <terra>
+        <id>28</id>
+        <code>Q</code>
+        <toll>0</toll>
+        <surface>next to quicksand</surface>
+        <desc>You've Got It!  Pulling yourself to the edge safely you breathe a deep sigh of relief for a moment but the ground is still soft and you realize your next move should be getting your ass the hell out of here!</desc>
+    </terra>
+    <terra>
+        <id>29</id>
+        <code>V</code>
+        <toll>0</toll>
+        <surface>quicksand death</surface>
+        <desc>Your pathetic attempts at hooking onto the branch fail miserably and you slowly sink in the quagmire.  You scream for help but no one hears you as your mouth is finally covered with the rising muck and with one more slurp you disappear completely leaving no trace of your ever having been.</desc>
+    </terra>
+    <terra>
+        <id>30</id>
+        <code>W</code>
+		<thirst>5</thirst>
+		<hunger>15</hunger>
+        <toll>0</toll>
+        <surface>leeches</surface>
+        <desc>Eeek!  Several big leeches latch on to you feeding on your blood in a frenzied panic you tear them off but can't reach a big one on your back. The leeches insatiable appetite puts a real drain on your strength.</desc>
+    </terra>
+    <terra>
+        <id>31</id>
+        <code>X</code>
+		<thirst>5</thirst>
+		<hunger>15</hunger>
+        <toll>0</toll>
+        <surface>death in a tiger pit</surface>
+        <desc>You look down in horror as you try to move and discover a large stake protruding from your chest forming a sucking chest wound that sprays blood in a misting shower every time you try to breathe.  You taste blood running out your mouth and choke on it as you bleed to death leaving a rotting corpse and bag of rags as mute warning to others who might pass this way.</desc>
+    </terra>
+    <terra>
+        <id>32</id>
+        <code>Y</code>
+		<thirst>5</thirst>
+		<hunger>15</hunger>
+        <toll>0</toll>
+        <surface>narrow escape from a tiger pit</surface>
+        <desc>You look down with a sigh of relief to discover there aren't any big spikes impaling you then gasp in shock as you look over and see the rotting corpse of another hunter who wasn't so lucky.  Climbing slowly back up the side of the pit you wonder just who's trap this is and make plans to get far from here quickly, checking yourself over you find</desc>
+    </terra>
+    <terra>
+        <id>33</id>
+        <code>Z</code>
+		<thirst>5</thirst>
+		<hunger>15</hunger>
+        <toll>0</toll>
+        <surface>snake bite death</surface>
+        <desc>AIEEE! YOU'VE STEPPED RIGHT ON A KING COBRA WHO BITES YOU SAVAGELY! The deadly neurotoxin of the snake spreads quickly and reaches your brain in less than a minute.  You convulse in spasms as your muscles twitch and contort into all sorts of disfigurations completely out of control. Foaming at the mouth then blindness sets in as it destroys your nervous system. In the incredibly painful throes of final death agony you can't even try to scream as you finally lose control of your involuntary muscles and your heart stops along with your breathing and suffering.</desc>
+    </terra>
+    <terra>
+        <id>34</id>
+        <code>r</code>
+		<thirst>5</thirst>
+		<hunger>15</hunger>
+        <toll>0</toll>
+        <surface>snake pit help</surface>
+        <desc>YOU'VE FALLEN INTO A SNAKE PIT AND IT'S TOO DARK TO SEE! The exit is on the other side of the 8 x 8 grid forming the pit. If a snake is in any adjacent North East South or West point you will hear it hissing loudly nearby, to step on one is to die a horrible death! 
+				    THE SNAKE PIT  
+				   . . . . . . . x--- Escape and Safety Here
+Any spot where you've      . . . . . . . .
+already stepped and        . . . . . . . .    +-----= LEGEND =-----+
+where you know there       . . . . . . . .    | 'X' spot you're on |
+is no snake will be        . . . . . . . .    | '+' safe spot      |
+shown as a + sign          . . . . . . . .    | '.' unknown spot   |
+				   . . . . . . . .    | 'x' exit out there |
+You've Fallen In Here ---- . . . . . . .    +--------------------+
+REMEMBER: If you see the message "YOU HEAR A SNAKE HISS NEAR BY!" it means you are standing RIGHT NEXT TO a deadly snake! Watch Your Step and Good Luck Bwana!</desc>
+    </terra>
+    <terra>
+        <id>35</id>
+        <code>r</code>
+		<thirst>5</thirst>
+		<hunger>15</hunger>
+        <toll>0</toll>
+        <surface>narrow snake escape</surface>
+        <desc>YOU MADE IT!! Scrambling up the protruding roots of a fallen tree you look back into the darkness and shudder at the sight of a HUGE king cobra waving to and fro with it's hood spread wide rising up trying to follow you!</desc>
+    </terra>
+    <terra>
+        <id>36</id>
+        <code>r</code>
+		<thirst>5</thirst>
+		<hunger>15</hunger>
+        <toll>0</toll>
+        <surface>in the lost city with no amulet</surface>
+        <desc>You continue poking at it for a while when suddenly the stones open up beneath your feet plunging you into inky blackness.  Falling for what seems like an eternity only to be splattered on the stone temple floor. Congratulations, you found the lost city but never lived to tell about it.</desc>
+    </terra>
+    <terra>
+        <id>37</id>
+        <code>r</code>
+		<thirst>5</thirst>
+		<hunger>15</hunger>
+        <toll>0</toll>
+        <surface>in the lost city with the amulet</surface>
+        <desc>As a matter of fact it looks just like the amulet you're wearing, you take the little rough diamond elephant statue and IT FITS!  Suddenly you hear the whole jungle roar as it has just recieved a new king. YOU ARE THE NEW LORD OF THE JUNGLE! The statues turn outward betraying a hole cut in the rocks below, cautiously looking in you find the ground littered with rough diamonds.</desc>
+    </terra>
+    <terra>
+        <id>38</id>
+        <code>r</code>
+		<thirst>5</thirst>
+		<hunger>15</hunger>
+        <toll>0</toll>
+        <surface>in the lost city with the amulet but no elephant call or chimp</surface>
+        <desc>As a matter of fact it looks just like the amulet you're wearing, you take the little rough diamond elephant statue and IT FITS!  Suddenly you hear the whole jungle roar as it has just recieved a new king. But wait... YOU HAVE BETRAYED THE ELEPHANT GOD! Suddenly you realize only one who has truly mastered and befriended the beasts dare touch the sacred stones. A violent shudder of an earthquake rocks the statues as they suddenly come together and crush you like a grape	before you can even scream and then rocking back drop your mutilated carcass onto the sacrificial mound before them.</desc>
+    </terra>
+    <terra>
+        <id>39</id>
+        <code>r</code>
+		<thirst>5</thirst>
+		<hunger>15</hunger>
+        <toll>0</toll>
+        <surface>law of the jungle</surface>
+        <desc>To become lord you must be proven friend to the sacred beast, have the sacred amulet of -=ganaysha=- plus a cute chimp for a sidekick, complete a pilgrimmage to the lost temple, and most of all SURVIVE! Your score is your strength at the completion of all of the above.</desc>
+    </terra>
+    <terra>
+        <id>40</id>
+        <code>=</code>
+		<thirst>5</thirst>
+		<hunger>15</hunger>
+        <toll>0</toll>
+        <surface>big bamboo blocks the way</surface>
+        <desc>
+            <![CDATA[
+             _________ __________ __________ ___________ ___________  _________
+            (________((_________((_________((__________((___________((________()
+            ]]>
+        </desc>
+    </terra>
+    <terra>
+        <id>41</id>
+        <code>r</code>
+        <surface>stepped on a thorn</surface>
+        <desc>YOWCH! You scream as you step on a particulary nasty thorn, it breaks off leaving a very painful splinter in your foot!  You stop and desperately pick and claw at it but can't quite get your fingers on it to pull it out.</desc>
+    </terra>
+    <terra>
+        <id>42</id>
+        <code>r</code>
+		<thirst>5</thirst>
+		<hunger>15</hunger>
+        <toll>0</toll>
+        <surface>watery grave</surface>
+        <desc>when the icy coldness takes its toll.  Unable to fight any longer you succumb to the undertow and are pulled beneath the waves to a horrible death as your lungs fill with water yet still you try to breathe as you stubbornly cling to the last fleeting glimpse of life.  Your watery grave bears no marker and no one will know but the fishes and they tell no tales.</desc>
+    </terra>
+    <terra>
+        <id>43</id>
+        <code>r</code>
+		<thirst>25</thirst>
+		<hunger>15</hunger>
+        <toll>0</toll>
+        <surface>piranah attack</surface>
+        <desc>when something tears at your legs so numb you barely feel it at first. Suddenly a great bloody cloud rises up surrounding you screaming in terror as the water churns to life in a giant school of frenzied man eating piranah fish.  Your flesh disappears from your bones as they literally tear you apart picking your bones clean leaving only a few tidbits for the crabs and snails to fight over in the dark icy mud of the rivers bottom, leaving no evidence of your passing.</desc>
+    </terra>
+</terrain>

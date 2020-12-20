@@ -1,0 +1,392 @@
+<usage>
+<use>
+<code>0</code>
+<note>ABOUT</note>
+<text><![CDATA[
+____________________________________
+\                                  \\
+ \         DARK CONTINENT (tm)      \\
+  |  written by Linus Sphinx with    ||
+ /     routines by Rahner James     //
+|   Inquires to:                   ||
+ \       Sphinx Publishing          \\
+  |      535 Potomac Ave.            ||
+ /       Sacramento, Ca 95833       //
+|                or                ||
+ \         Come Scrawl Upon         \\
+  |            THE WALL              ||
+  /         (916) 927-0358          //
+ /  (c) Copyright The Xworks 1990  //
+/        all rights reserved     //
+::::::::::::::::::::::::::::::::::
+]]></text>
+</use>
+
+<use>
+<code>1</code>
+<note>MAIN MENU</note>
+<text><![CDATA[
+:::::::::::::::::::::::::::::::::::::\
+\\              (8/N)orth             \
+ \\     (4/W)est   -+-   (6/E)ast      \
+  ||            (2/S)outh               |
+  //                                    /
+ // (0/U)se (+/G)et (-/D)rop (1/K)ill  /
+||                                    |
+ \\  (M)ap s(T)atus (Y)ell (7/I)nspect \
+  ||                                    |
+ //  (./V)ine   (*/L)ook-(N)(E)(W)(S)  /
+||                                    |
+ \\  jungle teleg(R)aph  weap(O)nheld  \
+  ||                                    |
+ // (Q)uit  (A)bout  (H)int  scri(P)t   /
+//____________________________________/
+]]></text>
+</use>
+
+<use>
+<code>2</code>
+<note>USE SHOVEL</note>
+<text></text>
+</use>
+
+<use>
+<code>3</code>
+<note>USE MANGO</note>
+<text></text>
+</use>
+
+<use>
+<code>4</code>
+<note>DIG WITH HANDS</note>
+<text>You claw and scratch at the fertile ground til your hands are raw and bleeding stumps all the while sweating profusely only to find</text>
+</use>
+
+<use>
+<code>5</code>
+<note>BURY WITH HANDS</note>
+<text>You claw at the ground til your hands are raw and bleeding so bad you can't dig any further, drop the item in and cover it up.</text>
+</use>
+
+<use>
+<code>11</code>
+<note>SPAM KEY</note>
+<text></text>
+</use>
+
+<use>
+<code>12</code>
+<note></note> 
+<text></text>
+</use>
+
+<use>
+<code>13</code>
+<note>FULL SPAM CAN</note>
+<text></text>
+</use>
+
+<use>
+<code>14</code>
+<note></note> 
+<text></text>
+</use>
+
+<use>
+<code>15</code>
+<note>SWISS ARMY KNIFE - NO BAG</note>
+<text></text>
+</use>
+
+<use>
+<code>16</code>
+<note>SWISS ARMY KNIFE - BAG - SPLINTER</note>
+<text></text>
+</use>
+
+<use>
+<code>17</code>
+<note>SWISS ARMY KNIFE - BAG - NO SPLINTER</note>
+<text>
+</text>
+</use>
+
+<use>
+<code>18</code>
+<note>CANTEEN guy.drinks != 0 AND ! watering hole or river</note>
+<text></text>
+</use>
+
+<use>
+<code>19</code>
+<note>guy.drinks == 0</note>
+<text></text>
+</use>
+
+<use>
+<code>20</code>
+<note>CANTEEN FILL - HYDRO PURE</note>
+<text></text>
+</use>
+
+<use>
+<code>21</code>
+<note></note> 
+<text></text>
+</use>
+
+<use>
+<code>22</code>
+<note>FLINT AND ROCK</note>
+<text><![CDATA[
+Striking your flint and rock together you build a small fire good for:
+                A) Cooking dead animals to eat
+                B) Boiling water to drink
+                C) Burning someones hut down
+]]></text>
+</use>
+
+<use>
+<code>23</code>
+<note>COOK</note>
+<text></text>
+</use>
+
+<use>
+<code>24</code>
+<note>EAT</note>
+<text></text>
+</use>
+
+<use>
+<code>25</code>
+<note>RHINO</note>
+<text>
+</text>
+</use>
+
+<use>
+<code>26</code>
+<note>BOIL NO CAN</note>
+<text></text>
+</use>
+
+<use>
+<code>27</code>
+<note>BOIL</note>
+<text></text>
+</use>
+
+<use>
+<code>28</code>
+<note>USE BANANA</note>
+<text>.</text>
+</use>
+
+<use>
+<code>29</code>
+<note>EMPTY SPAM CAN</note>
+<text></text>
+</use>
+
+<use>
+<code>30</code>
+<note>BAMBOO</note>
+<text></text>
+</use>
+
+<use>
+<code>31</code>
+<note>MAGGOTS</note>
+<text></text>
+</use>
+
+<use>
+<code>32</code>
+<note>QUININE</note>
+<text></text>
+</use>
+
+<use>
+<code>33</code>
+<note>HYDRO PURE</note>
+<text></text>
+</use>
+
+<use>
+<code>34</code>
+<note>SMALL BOX</note>
+<text></text>
+</use>
+
+<use>
+<code>35</code>
+<note>MACHETE - ALONE</note>
+<text></text>
+</use>
+
+<use>
+<code>36</code>
+<note>YELL - NO EL_CALL</note>
+<text>AAA-EEE-AAA-EE-AAA-EE-AA-EEE-AA-EE-OOOOoooo!</text>
+</use>
+
+<use>
+<code>37
+</code>
+<note>YELL - EL_CALL</note>
+<text>Suddenly you hear a great crashing in the brush and a familiar giant bursts out of the jungle... It's the old elephant you gave a mango to, he kneels down and offers to pluck you out of your peril, cradle you in his mighty tusks and carry you to any safe location you can name.</text>
+</use>
+
+<use>
+<code>38</code>
+<note>BUG</note>
+<text></text>
+</use>
+
+<use>
+<code>39</code>
+<note>COMPASS</note>
+<text></text>
+</use>
+
+<use>
+<code>40</code>
+<note>DIAMOND</note>
+<text>
+</text>
+</use>
+
+<use>
+<code>41</code>
+<note>SKULL</note>
+<text></text>
+</use>
+
+<use>
+<code>42</code>
+<note>SHRUNKEN HEAD</note>
+<text></text>
+</use>
+
+<use>
+<code>43</code>
+<note>BAMBOO HUT</note>
+<text></text>
+</use>
+
+<use>
+<code>44</code>
+<note>FINISHED BAMBOO HUT</note>
+<text></text>
+</use>
+
+<use>
+<code>45</code>
+<note>VINE not up a tree</note>
+<text></text>
+</use>
+
+<use>
+<code>46</code>
+<note>VINE already up a tree</note>
+<text></text>
+</use>
+
+<use>
+<code>47</code>
+<note>Vine travel</note>
+<text></text>
+</use>
+
+<use>
+<code>48</code>
+<note>Vine to nowhere</note>
+<text></text>
+</use>
+
+<use>
+<code>49</code>
+<note>Vine Down</note>
+<text></text>
+</use>
+
+<use>
+<code>50</code>
+<note>NEWS when up a tree</note>
+<text></text>
+</use>
+
+<use>
+<code>51</code>
+<note>Use the amulet</note>
+<text></text>
+</use>
+
+<use>
+<code>52</code>
+<note>transfer the amulet</note>
+<text>
+</use>
+
+<use>
+<code>53</code>
+<note>DRUMS</note>
+<text>
+<![CDATA[
+Ungowa Drums Speak!           ()
+                               \ /()
+                  ____________ //___________
+                // \\  -_-_- // - _- _-_ (O) \
+               ||   ||-_(P)ounded message -_-_|
+               ||   ||_ (L)isten for news _ -_|
+                \\_//__-___-__-__-__-__-__-_ /
+]]>
+</text>
+</use>
+
+<use>
+<code>54</code>
+<note></note>
+<text>Suddenly you're surrounded by a pack of wild african dogs! They swarm all around you biting and nipping at you whichever way you're not looking! Suddenly the biggest one breaks the circle and approaches you with a menacing yellow eyed stare, he looks at your kill and then looks back snarling and with a deep growl moves slowly toward you!</text>
+</use>
+
+<use>
+<code>55</code>
+<note></note>
+<text>The pack rushes you from behind and maul you horribly while ol' yellow eyes and a his pals take off with your kill leaving you all chewed up and even hungrier than before, but at least they've left you alive.</text>
+</use>
+
+<use>
+<code>56</code>
+<note></note>
+<text>You leave the dead beasts carcass to the vicious dog pack and beat a hasty retreat as they tear it apart and drag it away snarling and fighting amongst themselves as they go.  A loud roar nearby makes them sprint for it as the other predators nearby get wind or fresh meat.</text>
+</use>
+
+<use>
+<code>57</code>
+<note></note>
+<text>
+<![CDATA[
+Luckily you find some tattered documents tacked to a nearby tree...
+ |    .  ,   ,    .  ,   .   ,  |/ .` .' /
+ |, '  _______________ ___  .     `  ' /
+ |.` , \o             V  o\ . '  ' ' /
+ | , .. |                 | .` .  '/
+ |. .  /     (H)ints     /,   ,  /
+ | ,  |                 | . `   |
+ | ,`. \     (S)tory     \  . ' |
+ |  , '|                  |   , |
+ |.   /                  /  /^\ |
+ |  ' \o__________v_____o\ {(O)}|
+ |' .` , .  " ,  ~  .  ` ,  \v/ |
+]]>
+</text>
+</use>
+
+<use>
+<code>58</code>
+<note></note>
+<text>OW! You stick your finger in a knothole and some big mean bug makes you pay dearly for being so curious!</text>
+</use>
+</usage>

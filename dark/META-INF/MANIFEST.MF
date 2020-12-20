@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: 5 (Linus Sphinx)
+Main-Class: dc
+

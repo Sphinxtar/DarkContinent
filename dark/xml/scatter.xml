@@ -1,0 +1,141 @@
+<scatter>
+<item>
+<code>0</code>
+<name>folding pack shovel</name>
+<count>150</count>
+<terrain>abcghjklmnoprtw</terrain>
+</item>
+<item>
+<code>1</code>
+<name>razor sharp machete</name>
+<count>150</count>
+<terrain>abcghjklmnoprtw</terrain>
+</item>
+<item>
+<code>2</code>
+<name>Swiss Army Knife</name>
+<count>150</count>
+<terrain>abcghjklmnoprtw</terrain>
+</item>
+<item>
+<code>3</code>
+<name>canteen</name>
+<count>150</count>
+<terrain>abcghjklmnoprtw</terrain>
+</item>
+<item>
+<code>4</code>
+<name>compass</name>
+<count>150</count>
+<terrain>abcghjklmnoprtw</terrain>
+</item>
+<item>
+<code>5</code>
+<name>ripe mango</name>
+<count>15</count>
+<terrain>abcghjklmnoprtw</terrain>
+</item>
+<item>
+<code>6</code>
+<name>banana</name>
+<count>500</count>
+<terrain>abcghjklmnoprtw</terrain>
+</item>
+<item>
+<code>7</code>
+<name>stone and flint</name>
+<count>150</count>
+<terrain>abcghjklmnoprtw</terrain>
+</item>
+<item>
+<code>8</code>
+<name>rough diamond</name>
+<count>100</count>
+<terrain>abcghjklmnoprtw</terrain>
+</item>
+<item>
+<code>9</code>
+<name>human skull</name>
+<count>50</count>
+<terrain>ghu</terrain>
+</item>
+<item>
+<code>A</code>
+<name>shrunken head</name>
+<count>40</count>
+<terrain>abcghjklmnoprtw</terrain>
+</item>
+<item>
+<code>B</code>
+<name>rock</name>
+<count>50</count>
+<terrain>abcghjklmnoprtw</terrain>
+</item>
+<item>
+<code>D</code>
+<name>quinine tablets</name>
+<count>100</count>
+<terrain>abcghjklmnoprtw</terrain>
+</item>
+<item>
+<code>E</code>
+<name>stout bamboo</name>
+<count>5</count>
+<terrain>f</terrain>
+</item>
+<item>
+<code>F</code>
+<name>shot of penicillin</name>
+<count>75</count>
+<terrain>abcghjklmnoprtw</terrain>
+</item>
+<item>
+<code>G</code>
+<name>empty spam can</name>
+<count>450</count>
+<terrain>abcghjklmnoprtw</terrain>
+</item>
+<item>
+<code>H</code>
+<name>can of spam</name>
+<count>300</count>
+<terrain>abcghjklmnoprtw</terrain>
+</item>
+<item>
+<code>I</code>
+<name>spam key</name>
+<count>75</count>
+<terrain>abcghjklmnoprtw</terrain>
+</item>
+<item>
+<code>J</code>
+<name>broken machete</name>
+<count>25</count>
+<terrain>abcghjklmnoprtw</terrain>
+</item>
+<item>
+<code>K</code>
+<name>water purification tablets</name>
+<count>150</count>
+<terrain>abcghjklmnoprtw</terrain>
+</item>
+<item>
+<code>L</code>
+<name>bug</name>
+<count>500</count>
+<terrain>abcghjklmnoprtw</terrain>
+</item>
+<item>
+<code>M</code>
+<name>sacred amulet</name>
+<count>1</count>
+<terrain>abcghjklmnoprtw</terrain>
+</item>
+<item>
+<code>N</code>
+<name>bonus mango</name>
+<count>25</count>
+<terrain>abcghjklmnoprtw</terrain>
+</item>
+</scatter>
+

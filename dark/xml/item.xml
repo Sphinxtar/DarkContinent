@@ -1,0 +1,678 @@
+<items>
+<item>
+<code>0</code>
+<evil>false</evil>
+<hunger>0</hunger>
+<thirst>0</thirst>
+<savy>2</savy>
+<morph>0</morph>
+<name>folding pack shovel</name>
+<usage>You whip out your shovel and unfold it to attack the fertile jungle floor. You spend several minutes of hard sweaty work digging in the rotting vegetation, decomposed animal feces and leftovers to find</usage>
+<ascii>
+<![CDATA[
+							 ____________
+  __________________________<____________#
+ (__________________________________||||##
+]]>
+</ascii>
+<inspect>The folding pack shovel can be used for burying / digging up of items but they may or may not be uncovered and scattered by wild animals and it makes an ok weapon too.</inspect>
+</item>
+<item>
+<code>1</code>
+<evil>false</evil>
+<hunger>0</hunger>
+<thirst>0</thirst>
+<savy>2</savy>
+<morph>1</morph>
+<name>razor sharp machete</name>
+<usage>Your razor sharp machete makes short work of the lush green jungle and is used every time you move as long as you possess it.</usage>
+<usage>WHACK! Your razor sharp machete slices through the jungle as long as you have it with you.</usage>
+<ascii>
+<![CDATA[
+			 ______________________________________________
+   ________.'---------------------------------------------/
+  (_(_(_(_(|___________________________________________ /
+]]>
+</ascii>
+<inspect>The machete is a long broad razor sharp knife that can make hacking your way through the dense jungle much easier and is a pretty mean weapon too.</inspect>
+</item>
+<item>
+<code>2</code>
+<evil>false</evil>
+<hunger>0</hunger>
+<thirst>0</thirst>
+<savy>2</savy>
+<morph>2</morph>
+<name>Swiss Army Knife</name>
+<usage>You whip out your swiss army knife and go to work on your clothes. With it's scissors and tooth pick for a needle and unraveling your socks for thread you combine all of your clothes up to including the laces and parts of your shoes to fashion a bag with ten pockets for carrying what few things you can scrounge, leaving you with just enough material for a skimpy loin cloth.  You feel much more comfortable in the jungle heat and ready to travel.</usage>
+<usage>You whip out your swiss army knife and slide out its reusable tooth pick and thoughtfully pick your teeth while pondering your fate and wondering what place in the food chain you now occupy.</usage>
+<usage>You pull out your swiss army knife and with it's handy little tweezers extract the splinter that's slowing you down.</usage>
+<ascii>
+<![CDATA[
+	   -X- G   o |) _/
+	_____`\|____\|)/
+   <_____#(___+___)=====>
+]]>
+</ascii>
+<inspect>Standard issue to soldiers of the swiss army, this knife sports a can opener, tweezers, toothpick, scissors, file, and even a sharp little blade but makes a very pathetic weapon prone to closing on your fingers.</inspect>
+</item>
+<item>
+<code>3</code>
+<evil>false</evil>
+<hunger>30</hunger>
+<thirst>500</thirst>
+<savy>2</savy>
+<morph>3</morph>
+<name>canteen</name>
+<usage>Removing the cap off your canteen you take several long drinks of the surprisingly cool water and feel totally refreshed, ahhh!</usage>
+<usage>You shake the canteen and discover it's empty!</usage>
+<usage>You dunk your canteen into the cool water and watch the bubbles as you fill it, opening your box of HYDRO PURE tablets you drop a few in and shake well.</usage>
+<usage>You dunk your canteen into the cool water and watch the bubbles as you fill it.</usage>
+<ascii>
+<![CDATA[
+      __
+   __|__|__
+  /.------.\
+ |  \_||_/  |
+ |          |
+ |          |
+ |__________|
+]]>
+</ascii>
+<inspect>A one quart container in a canvas cover to help keep it's contents cool, this aluminum canteen when full should carry a full days water supply.</inspect>
+</item>
+<item>
+<code>4</code>
+<evil>false</evil>
+<hunger>0</hunger>
+<thirst>0</thirst>
+<savy>2</savy>
+<morph>4</morph>
+<name>compass</name>
+<usage>Your rusty trusty scout compass is in use whenever you are able to see it. It is shown as the XX:YY to the right of it's name. The XX is the East/West latitude and YY is the North/South longitude, 00:00 is the upper left hand corner of the map and 39:59 is the lower right. You draw a line at the numbers XX and YY and where they cross is your current location.</usage>
+<ascii>
+<![CDATA[
+                        
+ v            o
+ |._______.__.|
+  |_______|
+]]>
+</ascii>
+<inspect>The rusty trusty old scout compass shows you the coordinates of where you are in relation to the map by looking through it's sights and drawing azimuths to the stars and mount Ugga Bugga.</inspect>
+</item>
+<item>
+<code>5</code>
+<evil>false</evil>
+<hunger>50</hunger>
+<thirst>75</thirst>
+<savy>0</savy>
+<morph></morph>
+<name>ripe mango</name>
+<usage>You bite into the succulent fruit and relish the sweet rich taste of a ripe juicy mango, feeling much stronger for having eaten it and satisfying your thirst too.</usage>
+<ascii>
+<![CDATA[
+		\ /   \\   /()      _()   ()
+	 _()_\\    \\//   _____/______/()
+	 ()   \ \  _||_ //      )    \
+__()_      \ `  ,---'      /\    ()
+()   \     /  /          /    \
+	   \ /  /____()     (      )
+	   /  /    ()        \____/
+	 /  /
+]]>
+</ascii>
+<inspect>A bright green pear shaped fruit, very delicious, succulent and full of life sustaining juices high in protein.  Once picked they are very perishable and only last for two days before rotting.  Elephants love them but the tree thorns prevent them from picking the ones on inner branches and monkees hate them leaving plenty of mangos for you.</inspect>
+</item>
+<item>
+<code>6</code>
+<evil>false</evil>
+<hunger>75</hunger>
+<thirst>30</thirst>
+<savy>0</savy>
+<morph></morph>
+<name>banana</name>
+<usage>You peel the bread of the jungle very carefully and enjoy the sweet delicate taste, you feel stronger for having eaten one of natures most perfect foods but it's made you a bit thirsty.</usage>
+<ascii>
+<![CDATA[
+      _
+    _//
+  /  /
+ /  (
+ (    \
+ (     \
+  \    \
+    `\  \ 
+      `\_\
+]]>
+</ascii>
+<inspect>Ripe and juicy bright yellow bananas, a monkees dream, prone to bruising they won't travel well at all only lasting a day in this wretched hot steamy jungle.</inspect>
+</item>
+<item>
+<code>7</code>
+<evil>false</evil>
+<hunger>0</hunger>
+<thirst>0</thirst>
+<savy>4</savy>
+<morph>7</morph>
+<name>stone and flint</name>
+<usage>You tear off chunks of the dead carcass and prop it over the little fire with a stick until your beast is done to perfection and you pig out totally, your hunger completely satiated for the moment. You belch loudly and feel much stronger.</usage>
+<usage>A giant black rhino charges out of the jungle and stomps out your fire! It turns, looks in your direction for a moment, snorts and then gallops back the way it came.</usage>
+<usage>Your canteen is made of aluminum and much too thin, the fire burns a hole right through ruining it and extinguishing your fire.</usage>
+<usage>You take your empty spam can and pour your canteen contents in it. It comes to a boil very quickly and you then pour the sterile water back into your canteen and let it cool.</usage>
+<ascii>
+<![CDATA[
+				_
+   *        ___//
+  *  \     /  //\.
+*  *   \ /_  //   \
+ *  * ---- <__     |
+   *  *  /    \___/
+ *  *  *
+]]>
+</ascii>
+<inspect>A flat rough stone and stick of hard flint, when struck sharply together they emit an enourmous shower of sparks capable of starting a fire in the dead underbrush of the jungle floor.</inspect>
+</item>
+<item>
+<code>8</code>
+<evil>false</evil>
+<hunger>0</hunger>
+<thirst>0</thirst>
+<savy>2</savy>
+<morph>8</morph>
+<name>rough diamond</name>
+<usage>Even in it's unpolished state it glows with a light almost of it's own and twinkles as you move it back and forth.</usage>
+<ascii>
+<![CDATA[
+  \ | /
+ -- * --
+  / | \
+]]>
+</ascii>
+<inspect>Rarest and most highly prized this fist sized rough gemstone should polish out to at least 150 carats.  Even in it's natural state it gives off a dancing bluish brilliant light and appears almost as if it's alive. Natives superstitions tell of dead animal spirits dwelling within the stones and make them a favorite icon among witch doctors.</inspect>
+</item>
+<item>
+<code>9</code>
+<evil>false</evil>
+<hunger>0</hunger>
+<thirst>0</thirst>
+<savy>2</savy>
+<morph>9</morph>
+<name>human skull</name>
+<usage>You heft the hunk of bone wondering who the former owner was, how he came to die here and whether you will suffer a similar fate.</usage>
+<ascii>
+<![CDATA[
+   ____
+ /  <   \
+( {} '{} )
+ \_ <} _/
+   |..|
+]]>
+</ascii>
+<inspect>A human skull with the meat cleaned off by the insect life of the jungle bears mute testimony that other, less fortunate hunters have blazed this trail before you.</inspect>
+</item>
+<item>
+<code>A</code>
+<evil>false</evil>
+<hunger>0</hunger>
+<thirst>0</thirst>
+<savy>2</savy>
+<morph>A</morph>
+<name>shrunken head</name>
+<usage>You twirl the strange object around by the hair and toss it back.</usage>
+<ascii>
+<![CDATA[
+   ___
+ _///\\\
+(O_O) |||
+ |||  |||
+	  |||
+]]>
+</ascii>
+<inspect>Your blood runs cold as you pick up some savages grisly trophy.  Natives believe the bearer carries with him the abilities of the former owner of these shrunken heads.  Knotted cords dangle from it's lip where it was stuffed full of mysterious herbs and sewn shut just before the owner was cooked alive and eaten.</inspect>
+</item>
+<item>
+<code>B</code>
+<evil>false</evil>
+<hunger>0</hunger>
+<thirst>0</thirst>
+<savy>2</savy>
+<morph></morph>
+<name>rock</name>
+<usage>You hurl the rock into the air with all your might</usage>
+<ascii>
+<![CDATA[
+   ___
+ /  ...\
+|   :: /
+ \ __ /
+                        
+]]>
+</ascii>
+<inspect>A rather plain ordinary looking rock about the size of a golf ball, flat on one side.</inspect>
+</item>
+<item>
+<code>C</code>
+<evil>false</evil>
+<hunger>0</hunger>
+<thirst>0</thirst>
+<savy>2</savy>
+<morph>C</morph>
+<name>maggot</name>
+<usage>You pop the big white worms of blue fly larvae in your mouth and feel them squirm and squish in a bitter foul tasting mass that seems to take forever to chew and is almost impossible to swallow but you gag it down anyway.</usage>
+<ascii>
+<![CDATA[
+  ___________
+ (_(_(_(_(_(_)
+]]>
+</ascii>
+<inspect>White segmented worm larvae of those giant blue flys that keep buzzing by are found just about anywhere in the green jungle floor where something is rotting.  One look is usually more than enough for even the strongest stomach.</inspect>
+</item>
+<item>
+<code>D</code>
+<evil>false</evil>
+<hunger>0</hunger>
+<thirst>0</thirst>
+<savy>2</savy>
+<morph>D</morph>
+<name>quinine tablets</name>
+<usage>You take a handful of the little yellow pills and gulp them down, resting for a few minutes and gagging in thirst from their bitter taste you feel like your old self again as your malaria subsides.</usage>
+<ascii>
+<![CDATA[
+   _________________
+  /_______________ /|
+ |       __       | |
+ |    __|  |__    | |
+ |   |__    __|   | |
+ |      |__|      | |
+ |________________|/
+]]>
+</ascii>
+<inspect>Quinine tablets will ease the pain and suffering of malaria almost completely. This box has enough for several days.</inspect>
+</item>
+<item>
+<code>E</code>
+<evil>false</evil>
+<hunger>0</hunger>
+<thirst>0</thirst>
+<savy>2</savy>
+<morph>E</morph>
+<name>stout bamboo</name>
+<usage>You take the sticks of stout bamboo and with a few thin vines from the undergrowth splint your broken leg.  A bit painful but you're mobile again.</usage>
+<usage>You drive the stakes into the ground and mark out a weak frame. Hard work in the jungle heat but with the finishing touches in place you admire your handiwork. A stout little green bamboo hut sturdy enough to withstand repeated attacks with the sharpest machete when the door is barred from the inside and the bamboo so green it will take a week to dry before anyone can even burn it down with room to store a couple dozen items.</usage>
+<ascii>
+<![CDATA[
+ ______________________________________________________
+(________________(________________(__________________(_)
+]]>
+</ascii>
+<inspect>Bamboo, light but sturdy makes a good splint for a broken limb and grows in abundance here.</inspect>
+</item>
+<item>
+<code>F</code>
+<evil>false</evil>
+<hunger>0</hunger>
+<thirst>0</thirst>
+<savy>2</savy>
+<morph></morph>
+<name>shot of penicillin</name>
+<usage>You open the small box and remove a syringe filled with penicillin, stabbing it into your thigh you pull back on the plunger slightly as you work it in and see a stream of blood enter the chamber signifying a vein has been hit.  You push slowly down on the plunger until the antibiotic is all gone, pull it out and toss it away.</usage>
+<ascii>
+<![CDATA[
+		__________________________
+	  //-------------------------/
+	//_________________________/
+   ||         __________       |
+   || 8------|__._._._._>----- |
+   ||__________________________|
+	---------------------------
+]]>
+</ascii>
+<inspect>A shot of penicillin, enough to take care of almost any infection from the clap to jungle fever.</inspect>
+</item>
+<item>
+<code>G</code>
+<evil>true</evil>
+<hunger>100</hunger>
+<thirst>100</thirst>
+<savy>10</savy>
+<morph></morph>
+<name>empty spam can</name>
+<usage>You take the empty spam can and peel it into steel ribbons.  Combining it with a green sapling growing nearby you fashion a deadly man trap that will fling the razor sharp can strips into the next passing creature over three feet tall, lacerating them into a bloody pulp.</usage>
+<ascii>
+<![CDATA[
+  ________________
+ |             _  |
+ | |   ||_| _||_  |
+ | |_|_||_||_| _| |
+ |----------------|
+]]>
+</ascii>
+<inspect>An empty spam can.</inspect>
+</item>
+<item>
+<code>H</code>
+<evil>false</evil>
+<hunger>0</hunger>
+<thirst>0</thirst>
+<savy>2</savy>
+<morph>G</morph>
+<name>can of spam</name>
+<usage>A can of spam without a spam key is totally useless.</usage>
+<ascii>
+<![CDATA[
+ ==================
+ |  _  _  _  _ _  |
+ | |_ |_||_|| | | |
+ |  _||  | ||   | |
+ |________________|
+]]>
+</ascii>
+<inspect>A can of spam!  Americas favorite snack awaits you, trouble is this one has no key to open it!</inspect>
+</item>
+<item>
+<code>I</code>
+<evil>false</evil>
+<hunger>500</hunger>
+<thirst>0</thirst>
+<savy>3</savy>
+<morph>I</morph>
+<name>spam key</name>
+<usage>You fit the odd looking key into your can of spam turning it round and round til the lid comes off, keeping the key you discard the lid.  You kick back and chow down on the food of the gods feeling much stronger after lunch.</usage>
+<usage>You don't have a can of spam to open!</usage>
+<ascii>
+<![CDATA[
+ o_o
+  |
+]]>
+</ascii>
+<inspect>An odd shaped key that fits no lock.</inspect>
+</item>
+<item>
+<code>J</code>
+<evil>false</evil>
+<hunger>0</hunger>
+<thirst>0</thirst>
+<savy>2</savy>
+<morph>J</morph>
+<name>broken machete</name>
+<usage>Using the broken machete has no effect.</usage>
+<ascii>
+<![CDATA[
+			 _
+   ________.'->
+  (_(_(_(_(|___>
+]]>
+</ascii>
+<inspect>A useless broken machete.</inspect>
+</item>
+<item>
+<code>K</code>
+<evil>false</evil>
+<hunger>0</hunger>
+<thirst>0</thirst>
+<savy>3</savy>
+<morph>K</morph>
+<name>Aqua-Pure tablets</name>
+<usage>You read the label on the back of the box: ACME AQUA PURE PILLS If you have these one will be added to the water when you fill your canteen. (c) patent pending.</usage>
+<ascii>
+<![CDATA[
+	_____________
+   /___________ /|
+  |            | |
+  |  /\  Hydro | |
+  | (__) Pure  | |
+  |____________|/
+]]>
+</ascii>
+<inspect>Water purification tablets, enough to make a gallon and a half of clean drinking water from even the filthiest most disease infested water hole.</inspect>
+</item>
+<item>
+<code>L</code>
+<evil>false</evil>
+<hunger>0</hunger>
+<thirst>0</thirst>
+<savy>2</savy>
+<morph>L</morph>
+<name>bug</name>
+<usage>It's a great big healthy pitbool bug you've got there, looks like a mean one too.</usage>
+<ascii>
+ ____ \_/
+(____\(_)
+ //||\\
+</ascii>
+<inspect>A large fat green spotted bug looks back at you.</inspect>
+</item>
+<item>
+<code>M</code>
+<evil>false</evil>
+<hunger>0</hunger>
+<thirst>0</thirst>
+<savy>2</savy>
+<morph>M</morph>
+<name>sacred amulet</name>
+<usage>The bright shiny trinket on a golden chain is the only one of it's kind. Perhaps when you reach the lost temple of Ganaysha you will unlock it's secret, until then you put it on and it swings and flashes in the light.</usage>
+<ascii>                      
+	 o
+	8 8
+	8 8
+	8 8
+	8 8
+	8 8
+	8 8
+  _  8_
+ (|)'  \,
+ J`||-||
+</ascii>
+<inspect>You gaze upon the amulet, an enourmous diamond cut in the image of Ganaysha the elephant god that glows and flashes reflecting even the slightest bit of light, it's golden chain tarnished by time.</inspect>
+</item>
+<item>
+<code>N</code>
+<evil>false</evil>
+<hunger>200</hunger>
+<thirst>200</thirst>
+<savy>10</savy>
+<morph>OP</morph>
+<name>mango</name>
+<usage>As you start to bite into that ripe juicy life giving delicious fruit you spot a wrinkled, sick tired old elephant who stumbles as he moves to a safe distance away from you.  He weakly trumpets then hungrily eyes your SUPER 2000 STRENGTH BONUS MANGO!</usage>
+<ascii>
+	_--_   _____   _--_
+  /-   _\/ _-_-_ \/_   -\
+ |-     _- O _ O -_     _|
+ |-     _- _-_-_ -_     _|
+ `,_    _ -_-_-_-_    _-/
+ |  \__/ H\ -_- / \ _ / |
+ |  - _  H_| - /H - _ - |
+  \ _  - V |- | V _- _- /
+   | - _-_ | =| _ /\  _|
+   |- _ | -|- |_/`,/ - |
+   | =-)|   \=__-/| -=)|
+   |=  -|         | - =|
+   |nnnn|         |nnnn|
+</ascii>
+<inspect>A beautiful, glistening, huge mango so ripe and perfect it's almost glowing!</inspect>
+</item>
+<item>
+<code>O</code>
+<evil>false</evil>
+<hunger>0</hunger>
+<thirst>0</thirst>
+<savy>2000</savy>
+<morph></morph>
+<name>feed the elephant</name>
+<usage>You hand over the golden ripe mango that may have saved your life and the aging mastadon munches down and takes on a new and healthier glow. As he prances off into the jungle all refreshed he turns for a moment and gives you a deep knowing look eyeing you fondly and you think to yourself, "Gee I wonder if he'll remember this someday?".</usage>
+<ascii>
+</ascii>
+<inspect>mangy old elephant eating a mango</inspect>
+</item>
+
+<item>
+<code>P</code>
+<evil>false</evil>
+<hunger>0</hunger>
+<thirst>0</thirst>
+<savy>2</savy>
+<morph></morph>
+<name>eat the fruit</name>
+<usage></usage>
+<ascii>
+</ascii>
+<inspect>You can feel strength flood back into you just biting the golden fruit. As you're polishing it off you scoop up a rock and hit the old elephant in the eye yelling, "Beat it you wrinkled old bag of ivory!", as it limps off into the jungle.</inspect>
+</item>
+
+<item>
+<code>Q</code>
+<evil>false</evil>
+<hunger>0</hunger>
+<thirst>0</thirst>
+<savy>2</savy>
+<morph>Q</morph>
+<name>cute chimp</name>
+<usage>A ragged little chimpanzee swings into view and chatters noisily, it's pretty obvious he hasn't eaten in awhile and probably been picked on and abused by the bigger chimps in the jungle, probably won't survive very long by itself. He eyes your bright yellow banana hungrily.</usage>
+<usage>You offer the ragged but cute little chimp half of your ripe banana. He greedily excepts and brightens up immediately.  You offer him the other half and he hops upon your shoulder to eat it happily.</usage>
+<usage>The ungrateful little simian bites you on the hand, grabs the whole  banana and disappears into the jungle!</usage>
+<usage>Your chimp chatters loudly in your ear, it wants another banana!</usage>
+<usage>Tired of this no more bananas crap your chimp bites you on the ear then jumps from your shoulder and takes off into the trees in search of food.</usage>
+<usage>Your chimp expertly peels and eats the bright yellow banana and chatters happily as he perches on your shoulder.</usage>
+<usage>Your chimp pulls a couple big leeches off your back where you couldn't reach, ahhh, what a relief.</usage>
+<usage>Screeching at the sight of the fast moving water your chimp leaps to the overhanging trees causing a flock of birds to all take off at once.</usage>
+<ascii></ascii>
+<inspect>The cutest little chimpanzee smiles back at you fondly. Your chimp likes bananas. Use one while carrying it.</inspect>
+</item>
+
+<item>
+<code>R</code>
+<evil>false</evil>
+<hunger>0</hunger>
+<thirst>0</thirst>
+<savy>0</savy>
+<morph></morph>
+<name></name>
+<usage></usage>
+<ascii></ascii>
+<inspect></inspect>
+</item>
+
+<item>
+<code>S</code>
+<evil>false</evil>
+<hunger>0</hunger>
+<thirst>0</thirst>
+<savy>0</savy>
+<morph></morph>
+<name>angry chimp</name>
+<usage></usage>
+<ascii></ascii>
+<inspect></inspect>
+</item>
+
+<item>
+<code>T</code>
+<evil>true</evil>
+<hunger>0</hunger>
+<thirst>60</thirst>
+<savy>2</savy>
+<morph></morph>
+<name>ripe mango</name>
+<usage>You dig into the delicious looking mango and spit it out in disgust. It's rotten and fermented leaving a foul bitter taste in your mouth and now you're even thirstier than ever.</usage>
+<ascii>
+</ascii>
+<inspect>rotten mango</inspect>
+</item>
+
+<item>
+<code>U</code>
+<evil>false</evil>
+<hunger>100</hunger>
+<thirst>10</thirst>
+<savy>2</savy>
+<morph></morph>
+<name>banana being eaten</name>
+<usage>You eat the delectable banana savoring it's sweet taste then with a laugh drop kick the sorry looking little chimp halfway across the jungle!</usage>
+<ascii>
+</ascii>
+<inspect>natures most perfect food in a convenient wrapper</inspect>
+</item>
+
+<item>
+<code>V</code>
+<evil>false</evil>
+<hunger>0</hunger>
+<thirst>0</thirst>
+<savy>0</savy>
+<morph></morph>
+<name>vine</name>
+<usage></usage>
+<usage>You grab a nearby vine that looks fairly stout and giving it a few sharp tugs to make sure you haul away, hoisting yourself up into the big vine overgrown tree giving you a better view looking out over the jungle.</usage>
+<usage>You grab a nearby vine that looks fairly stout and giving it a few sharp tugs to make sure it'll hold, lower yourself down to the ground safely.</usage>
+<usage>AAAA EEEE AAAA you swing high above the jungle floor to catch another vine mid air and swing your way safely over to the next tree.</usage>
+<usage>Forgetting for a moment you're up in a tree you swing off into space and fall screaming all the way to the jungle floor far below, cursing your foolishness you check yourself over and test all of your limbs to find YOU'VE BROKEN YOUR LEG!</usage>
+<usage>AAAA EEEE AAAAAiiiiieeeeee You swing out high above the jungle for the next tree only to find none there and plummet to the jungle floor like a rock, you regain consciousness in a moment and check yourself over to find all limbs still in working order.</usage>
+<ascii></ascii>
+<inspect></inspect>
+</item>
+
+<item>
+<code>W</code>
+<evil>true</evil>
+<hunger>0</hunger>
+<thirst>0</thirst>
+<savy>0</savy>
+<morph></morph>
+<name></name>
+<usage></usage>
+<ascii></ascii>
+<inspect></inspect>
+</item>
+
+<item>
+<code>X</code>
+<evil>false</evil>
+<hunger>0</hunger>
+<thirst>0</thirst>
+<savy>0</savy>
+<morph></morph>
+<name></name>
+<usage>Y</usage>
+<ascii></ascii>
+<inspect></inspect>
+</item>
+
+<item>
+<code>Y</code>
+<evil>false</evil>
+<hunger>0</hunger>
+<thirst>0</thirst>
+<savy>0</savy>
+<morph>Y</morph>
+<name></name>
+<usage></usage>
+<ascii></ascii>
+<inspect></inspect>
+</item>
+
+<item>
+<code>Z</code>
+<evil>false</evil>
+<hunger>0</hunger>
+<thirst>0</thirst>
+<savy>0</savy>
+<morph></morph>
+<name></name>
+<usage></usage>
+<ascii></ascii>
+<inspect></inspect>
+</item>
+
+<item>
+<code>a</code>
+<evil>false</evil>
+<hunger>500</hunger>
+<thirst>500</thirst>
+<savy>500</savy>
+<morph></morph>
+<name>trap being sprung</name>
+<usage>CRACK! as you step on twig a young sapling flings branches armed with razor sharp tin can strips coated with putrid lunch meat leavings that slashes your face, arms and chest to bits, the infection from that filthy can sets in almost immediately. You curse the lowlife sob of a fellow adventurer who set this here.</usage>
+<ascii></ascii>
+<inspect></inspect>
+</item>
+</items>
